@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Issyman
-- 👀 I’m interested in Research and development/Data Abslytics
+- 👀 I’m interested in Blockchain Technology, Research and development/Data Analytics
 - 🌱 I’m currently learning Python and ML
 - 💞️ I’m looking to collaborate on remotes jobs as business Analyst
 - 📫 How to reach me: adegboyeisrael@gmail.com
